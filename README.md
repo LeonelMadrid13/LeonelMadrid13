@@ -38,9 +38,8 @@ I'm a self-taught **Full-Stack Developer & Application Support Specialist** base
 ###
 
 🎯 **Current Projects & Focus:**  
-- Building portfolio microservices & full-stack applications  
-- Exploring cybersecurity & penetration testing  
-- Creating a single-player game with resource-gathering mechanics  
+- Building portfolio microservices & full-stack applications
+  - ecommerse-backend project  
 
 🌐 **Other passions:**  
 - Music, and gaming  
