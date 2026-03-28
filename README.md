@@ -43,7 +43,7 @@ I'm a self-taught **Full-Stack Developer & Application Support Specialist** base
 - Creating a single-player game with resource-gathering mechanics  
 
 🌐 **Other passions:**  
-- Music, livestreaming, and gaming  
+- Music, and gaming  
 - Tech exploration, puzzles, and unconventional knowledge  
 
 🚀 **Goal:**  
